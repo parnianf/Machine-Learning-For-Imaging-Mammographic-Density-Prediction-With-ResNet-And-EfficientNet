@@ -1,0 +1,16 @@
+torch
+torchvision
+torchmetrics>=1.8
+lightning>=2.6
+stocaching
+tensorboard
+numpy
+pandas
+scikit-learn
+scikit-image
+opencv-python
+matplotlib
+seaborn
+plotly
+ipywidgets
+jupyter
